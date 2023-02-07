@@ -31,26 +31,6 @@ Built on top of [SavjeeCoin](https://github.com/Savjee/SavjeeCoin) (simply Block
 
 **[Check it out here.](https://drive.google.com/file/d/1LCH5IF2jt4gRI4_gk_c0oJkXNBt3RFgE/view?usp=share_link)** You can create transactions in main, mine blocks and explore your own blockchain.
 
-## 🏁 Getting Started <a name = "getting_started"></a>
-Get a copy of the SavjeeCoin front-end running on your local machine (for playing around, testing or development).
-
-```
-git clone https://github.com/Savjee/savjeecoin-frontend.git
-```
-
-Install the dependencies:
-```
-cd savjeecoin-frontend
-npm install
-```
-
-Run the application:
-```
-npm start
-```
-
-At this point the application should be running on your machine on [http://localhost:4200](http://localhost:4200)
-
 
 ## 📸 Screenshots
 
