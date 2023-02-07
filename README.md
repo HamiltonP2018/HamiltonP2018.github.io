@@ -26,7 +26,7 @@ Angular application that allows you to interact with a blockchain. You can see t
 
 Built on top of [SavjeeCoin](https://github.com/Savjee/SavjeeCoin) (simply Blockchain implementation in Javascript).
 
-## 👀 Live demo
+## Demos
 **[Check it out here.](https://drive.google.com/file/d/1lckdYtUIdNTZ5WwhiXQmcBLyhuWyqI3d/view?usp=share_link)** You can create transactions, mine blocks and explore your own blockchain.
 
 **[Check it out here.](https://drive.google.com/file/d/1LCH5IF2jt4gRI4_gk_c0oJkXNBt3RFgE/view?usp=share_link)** You can create transactions in main, mine blocks and explore your own blockchain.
