@@ -5,6 +5,15 @@
 
 <h3 align="center">SavjeeCoin Frontend</h3>
 
+<h1>Autores</h1>
+    <p>Michael Stevens Diaz
+      Stiven David Higidio
+      Kevin Stiven Jimenez
+      Faber Antonio Ospina
+      Hamilton Efrain Pipicano
+      Karen Yulieth Ruales
+      Pablo Andres Ramirez</p>
+
 <div align="center">
 
   [![Build Status](https://travis-ci.org/Savjee/savjeecoin-frontend.svg?branch=master)](https://travis-ci.org/Savjee/savjeecoin-frontend)
@@ -22,7 +31,9 @@ Angular application that allows you to interact with a blockchain. You can see t
 Built on top of [SavjeeCoin](https://github.com/Savjee/SavjeeCoin) (simply Blockchain implementation in Javascript).
 
 ## 👀 Live demo
-**[Check it out here.](https://savjee.github.io/savjeecoin-frontend/)** You can create transactions, mine blocks and explore your own blockchain.
+**[Check it out here.](https://drive.google.com/file/d/1lckdYtUIdNTZ5WwhiXQmcBLyhuWyqI3d/view?usp=share_link)** You can create transactions, mine blocks and explore your own blockchain.
+
+**[Check it out here.](https://drive.google.com/file/d/1LCH5IF2jt4gRI4_gk_c0oJkXNBt3RFgE/view?usp=share_link)** You can create transactions in main, mine blocks and explore your own blockchain.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 Get a copy of the SavjeeCoin front-end running on your local machine (for playing around, testing or development).
