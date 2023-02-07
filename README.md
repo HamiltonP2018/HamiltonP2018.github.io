@@ -10,14 +10,7 @@
       Karen Yulieth Ruales
       Pablo Andres Ramirez</p>
 
-<div align="center">
 
-  [![Build Status](https://travis-ci.org/Savjee/savjeecoin-frontend.svg?branch=master)](https://travis-ci.org/Savjee/savjeecoin-frontend)
-  [![GitHub Issues](https://img.shields.io/github/issues/Savjee/savjeecoin-frontend.svg)](https://github.com/Savjee/bearclaw/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Savjee/savjeecoin-frontend.svg)](https://github.com/Savjee/bearclaw/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
 
 ---
 
@@ -31,6 +24,9 @@ Built on top of [SavjeeCoin](https://github.com/Savjee/SavjeeCoin) (simply Block
 
 **[Check it out here.](https://drive.google.com/file/d/1LCH5IF2jt4gRI4_gk_c0oJkXNBt3RFgE/view?usp=share_link)** You can create transactions in main, mine blocks and explore your own blockchain.
 
+
+
+**[Check it out here.](https://drive.google.com/file/d/10v5EM5lpV8ZpokkT8JmHEQfgJWq1PyC7/view?usp=share_link)** You can create transactions in main, mine blocks and explore your own blockchain.
 
 ## 📸 Screenshots
 
