@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=450px height=200px src="https://savjee.github.io/savjeecoin-frontend/assets/img/github-project-logo.png" alt="Project logo"></a>
-</p>
 
 <h3 align="center">SavjeeCoin Frontend</h3>
 
