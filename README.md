@@ -1,5 +1,5 @@
 
-<h3 align="center">SavjeeCoin Frontend</h3>
+<h3 align="center">UTRUEQUE UNICOIN</h3>
 
 <h1>Autores</h1>
     <p>Michael Stevens Diaz
